@@ -1,0 +1,6 @@
+add options like UI and usual 2d game engine stuff
+
+make small rpg in cpp
+with self made cpp game engine 
+
+
